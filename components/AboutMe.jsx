@@ -132,7 +132,7 @@ const AboutMe = () => {
                     </div>
                 )}
             </div>
-            <Footer />
+           
         </div>
     );
 }
